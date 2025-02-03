@@ -1,0 +1,7 @@
+C:\Users\VemulaNi\OneDrive - Unisys\Desktop\Azure\sbdemo0604\bin\Release\net8.0\publish\sbdemo0604.exe
+C:\Users\VemulaNi\OneDrive - Unisys\Desktop\Azure\sbdemo0604\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\VemulaNi\OneDrive - Unisys\Desktop\Azure\sbdemo0604\bin\Release\net8.0\publish\appsettings.json
+C:\Users\VemulaNi\OneDrive - Unisys\Desktop\Azure\sbdemo0604\bin\Release\net8.0\publish\sbdemo0604.dll
+C:\Users\VemulaNi\OneDrive - Unisys\Desktop\Azure\sbdemo0604\bin\Release\net8.0\publish\sbdemo0604.deps.json
+C:\Users\VemulaNi\OneDrive - Unisys\Desktop\Azure\sbdemo0604\bin\Release\net8.0\publish\sbdemo0604.runtimeconfig.json
+C:\Users\VemulaNi\OneDrive - Unisys\Desktop\Azure\sbdemo0604\bin\Release\net8.0\publish\sbdemo0604.pdb
